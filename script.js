@@ -1,18 +1,18 @@
 const songs = [
 {
     title: "Inthalo",
-    artist: "Artist One",
-    src: "./songs/inthalo.mp3"
+    artist: "Unknown",
+    src: "inthalo.mp3"
 },
 {
     title: "Ordinary Person",
-    artist: "Artist Two",
-    src: "./songs/ordinaryperon.mp3"
+    artist: "Unknown",
+    src: "ordinaryperon.mp3"
 },
 {
     title: "Neeve",
-    artist: "Artist Three",
-    src: "./songs/Neeve-SenSongsMp3.Co.mp3"
+    artist: "Unknown",
+    src: "Neeve-SenSongsMp3.Co.mp3"
 }
 ];
 
